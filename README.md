@@ -28,7 +28,7 @@ There is no contact with the user only methods to allow main app to contact with
 
 ## Main app:
 There is an scanner allowing the user to enter his or her information/details.
-#Registraition:
+# Registraition:
 Allows the user to register his or her details that meet all the requirements needed if the is error the user wont be able to register.
 
 ## Login:
